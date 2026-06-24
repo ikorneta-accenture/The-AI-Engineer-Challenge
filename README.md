@@ -451,17 +451,55 @@ Examples:
 
 **Prompt:**  
 <!-- Your prompt -->
+What does my schedule look like tomorrow?
 
 **Result:**  
 <!-- App response -->
+I don’t have access to your calendar, so I can’t see tomorrow’s events. If you paste your schedule (or key meetings/commitments), I’ll summarize it, spot conflicts, and help you optimize the day.
+
+If you’d like me to build a solid plan from scratch, tell me:
+- Your time zone and typical wake/sleep times
+- Any fixed appointments tomorrow (with times)
+- Top 3 priorities you want to make progress on
+- When you usually have your best focus
+- Any non‑negotiables (workout, family time, meds, commute)
+
+Want a quick balanced template to start? Here’s a simple one you can tweak:
+- Wake + morning routine (30–60 min): light movement, hydration, plan the day
+- Deep work block (90–120 min): top priority
+- Short break (10–15 min)
+- Deep work/admin (60–90 min): secondary priority or inbox
+- Lunch + short walk (45–60 min)
+- Meetings/collab (2–3 hrs): batch if possible
+- Buffer/admin (30–45 min): messages, small tasks
+- Workout or unwind (30–60 min)
+- Wrap-up (15 min): review tomorrow’s 3 priorities
+- Evening wind-down (tech off 30–60 min before bed)
+
+Share a few details and I’ll tailor this to you for tomorrow.
 
 ---
 
 **Prompt:**  
 <!-- Your prompt -->
+What time should I leave for the airport on Sunday?
 
 **Result:**  
 <!-- App response -->
+Happy to help you game‑plan this. To give a precise leave time, could you share:
+- Which airport and your departure time
+- Domestic or international
+- Checking bags?
+- TSA PreCheck/CLEAR?
+- How you’re getting there and typical travel time (plus parking/shuttle if driving)
+- Any holiday/event traffic this Sunday
+
+Quick rule of thumb if you just want a safe estimate:
+- Domestic: leave 3–3.5 hours before departure (includes drive + parking)
+- International: leave 4–4.5 hours before departure
+Add extra time if the drive is 45+ minutes, you’re checking bags, or it’s a holiday weekend; you can shave ~20–30 minutes if you have PreCheck/CLEAR and no checked bag.
+
+Share your details and I’ll calculate a confident “leave by” time so you can head out calm and unhurried.
 
 ---
 
@@ -471,6 +509,7 @@ What are some limitations of your application?
 
 **Your Answer:**  
 <!-- Write your answer here -->
+It has no information about me specifically (for instance, it assumes that I'm an American). It cannot use tools. And, obviously, currently, it's only deployed on my local computer :)
 
 ---
 
@@ -498,7 +537,6 @@ Then rerun your vibe check and document:
 1. Complete this section directly in your README
 2. Commit and push your changes to GitHub
 3. Share your **repo link + deployed Vercel app**
-
 
 
 
