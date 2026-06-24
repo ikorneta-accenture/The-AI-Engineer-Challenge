@@ -251,6 +251,7 @@ Mindset tips
 - Repetition helps: build a few simple classes in different mini-projects.
 
 If you want, tell me a domain you care about (games, finance, fitness), and I’ll help you sketch classes and objects tailored to it.
+
 ---
 
 **2. Prompt:**  
@@ -260,8 +261,7 @@ Read the following paragraph and provide a concise summary of the key points…
 Summarisation ability 
 
 **Response:**  
-<!-- Add your app's response here -->
-(As no paragraph has been provided, this question has been omitted.)
+<!-- Add your app's response here --> (As no paragraph has been provided, this question has been omitted.)
 ---
 
 **3. Prompt:**  
@@ -277,6 +277,7 @@ Every night, Route-7 sought shelter beneath a sputtering billboard that sold sum
 Hello, Route-7 tapped on the water with a finger of light, tilting its solar panel to make tiny tides. The koi chased the moving brightness, circling the robot’s boots in laughter the speakers couldn’t pronounce.
 
 After the storm, the world dried, but Route-7 learned the billboard’s timings and carried a thrift-store mirror in its cargo bay. On clear nights it set the mirror in a shadow, caught the billboard’s pond, and poured a small lake into the glass. The koi arrived. Friendship, it learned, could be engineered from light.
+
 ---
 
 **4. Prompt:**  
@@ -297,8 +298,7 @@ Rewrite the following paragraph in a professional, formal tone…
 Language transformation and style control
 
 **Response:**  
-<!-- Add your app's response here -->
-(As no paragraph has been provided, this question has been omitted.)
+<!-- Add your app's response here --> (As no paragraph has been provided, this question has been omitted.)
 ---
 
 ### ❓Question #1
@@ -306,8 +306,7 @@ Language transformation and style control
 Do the answers appear to be correct and useful?
 
 **Your Answer:**  
-<!-- Write your answer here -->
-Yes.
+<!-- Write your answer here --> Yes.
 ---
 
 ## 🏗️ Activity #2: Personal Use Vibe Check
@@ -318,25 +317,112 @@ Now test your app with **real-world prompts that are relevant to your use case**
 
 **Prompt:**  
 <!-- Your prompt -->
+I'm feeling down.
 
 **Result:**  
 <!-- App response -->
+I’m really sorry you’re feeling down. I’m here with you.
+
+- Do you have a sense of what’s weighing on you today? Was there anything in particular that set this off?
+- On a scale from 1–10, how heavy does it feel right now?
+- And just to check in on safety: are you having any thoughts of harming yourself?
+
+If you want a quick reset, try this for 2 minutes: inhale through your nose for 4, exhale slowly for 6. As you breathe out, let your shoulders drop. You can add: name 5 things you see, 4 you feel, 3 you hear, 2 you smell, 1 you taste.
+
+If talking it through would help, tell me a bit more and we can sort it out together. Or, if you’d prefer action, we can pick one tiny, doable step for today—something you can finish in 10 minutes to build a little momentum. What would feel most helpful right now?
 
 ---
 
 **Prompt:**  
 <!-- Your prompt -->
+I have new responsibilities that I don't really know how to take care of.
 
-**Result:**  
+**Result:**  /
 <!-- App response -->
+Totally normal to feel that way. New responsibilities come with uncertainty—and a chance to grow. Let’s make a simple ramp-up plan.
+
+Quick start (next 24–48 hours)
+- Clarify success: What does “good” look like by 30/60/90 days? Any metrics, deadlines, or non‑negotiables?
+- Map the work: List your new responsibilities. For each, note purpose, frequency (daily/weekly/monthly), and the first 2–3 actions.
+- Identify people: Who depends on you? Who can help you? Who did this before?
+- Find examples: Ask for past reports, checklists, or templates so you’re not starting from scratch.
+- Set cadence: Schedule a brief weekly check‑in with your manager/stakeholders.
+
+30‑60‑90 outline
+- 0–30 days: Learn and stabilize. Shadow someone, document processes, deliver small quick wins, surface risks early.
+- 31–60 days: Take ownership. Improve or automate one process, hit the first measurable outcome, refine SOPs.
+- 61–90 days: Optimize and scale. Demonstrate consistent results, hand off clear documentation, propose longer‑term improvements.
+
+Questions to align with your manager/stakeholders
+- What are the top 3 outcomes that matter most in the next 60–90 days?
+- What does “good” vs “great” look like? Any examples?
+- What are the critical deadlines and failure risks to avoid?
+- Who are the key stakeholders, and how often should I update them?
+- What existing docs, dashboards, or past work should I review?
+
+Short message you can use
+“Hi [Name], I’m excited to take this on. To ramp up quickly, could we align on the 3 most important outcomes by [date], what ‘good’ looks like (any examples), key stakeholders, critical deadlines/risks, and a check‑in cadence? I’ll share a brief 30‑60‑90 plan after our chat.”
+
+Mindset and habits
+- Progress over perfection: deliver early drafts, get feedback, iterate.
+- Question backlog: keep a running list; batch them for your check‑ins.
+- Daily debrief: What moved the needle? What’s blocked? What’s tomorrow’s first step?
+
+If you share what kind of responsibilities these are (work role, project, home, etc.), I can help you tailor a concrete 30‑60‑90 plan and a checklist for your first week.
 
 ---
 
 **Prompt:**  
 <!-- Your prompt -->
+I have a senior stakeholder who is very difficult to work with.
 
 **Result:**  
 <!-- App response -->
+That sounds really draining. I can help you craft a plan and even role‑play specific conversations. A few quick questions to tailor advice:
+- What behaviors make them “difficult” (e.g., last‑minute changes, dismissive in meetings, micromanaging, unresponsive)?
+- What do you need from them (approval, resources, decisions) and by when?
+- How do you typically interact (email, 1:1, group meetings)?
+- Do you have allies who influence them?
+
+In the meantime, here’s a concise playbook that works well with senior stakeholders:
+
+1) Diagnose their drivers
+- Ask: “What does success look like for you on this?” “What are the top two risks you’re watching?”
+- Map SCARF triggers (Status, Certainty, Autonomy, Relatedness, Fairness). Tailor your approach: offer options for Autonomy, provide timelines for Certainty, acknowledge expertise for Status.
+
+2) Pre‑wire and choose the right channel
+- Brief them 1:1 before big meetings. Keep it short: one‑pager with context, 2–3 options, trade‑offs, clear recommendation.
+- Use subject lines and TL;DRs. Senior folks respond to crisp choices and consequences.
+
+3) Align on decision criteria first
+- “Before we pick an option, can we agree on the top three criteria—e.g., time, cost, risk? If they conflict, which wins?”
+- Then present A/B choices with trade‑offs: “Given those criteria, Option A hits speed; Option B reduces risk.”
+
+4) Set expectations and boundaries
+- Clarify roles/decision rights (RACI if useful). “To move fast: I’ll decide on X; you’ll decide on Y. Does that work?”
+- Time‑box: “If I don’t hear back by Thu 3pm, I’ll proceed with Option A to protect the deadline.”
+
+5) Manage tough moments in the room
+- Redirect loops: “It seems we’re revisiting details. Can we decide the criterion first?”
+- Handle dismissiveness: “I want to understand. When you say ‘won’t work,’ which requirement does it miss?”
+- Scope creep: “With current resourcing, we can add Feature C by moving Feature B to next sprint. Which is higher priority?”
+
+6) Document relentlessly
+- Send crisp recap emails: decisions, owners, dates, open risks. Maintain a visible decision log to reduce reversals.
+
+7) Build coalition and escalate gracefully
+- Pre‑align with their trusted peers. If needed: “We’re at risk of X. To hit the date, I need your help with Y,” keeping it factual, not personal.
+
+8) Regulate yourself
+- Prep talking points and 1–2 boundary phrases; breathe, slow your pace, and don’t argue on opinion—return to criteria, data, and consequences.
+
+Ready‑to‑use scripts
+- Kickoff 1:1: “I want to make this easy for you. What are the two outcomes you care about most? How do you prefer updates—brief email or 10‑min huddle?”
+- Decision ask: “To meet the [date] deadline, I recommend Option A because it meets criteria 1 and 2. If we choose Option B, we add two weeks. Which do you prefer?”
+- Pushback on late changes: “Happy to include that. With current capacity, it would shift launch by 10 days or require dropping X. What’s your call?”
+- If they’re repeatedly dismissive: “In yesterday’s review, when the plan was called ‘naive,’ the team stopped engaging, and we lost 20 minutes. I want candid debate and momentum—can we focus feedback on specific risks so we can address them quickly?”
+
+If you share a concrete scenario or an email you’re drafting, I can help you script it, choose phrases, and plan the next meeting step‑by‑step.
 
 ---
 
@@ -346,6 +432,7 @@ Are the vibes of your assistant aligned with your expectations? Why or why not?
 
 **Your Answer:**  
 <!-- Write your answer here -->
+Yes, they are. The assistant is calm, peaceful and supportive, and at the same time concrete and detailed. The more concrete question I ask, the more specific the assistant's question is.
 
 ---
 
