@@ -198,47 +198,107 @@ For each prompt Identify what capability is being tested (e.g., *summarization a
 
 **1. Prompt:**  
 Explain the concept of object-oriented programming in simple terms to a complete beginner.  
+
 **Aspect Tested:**  <!-- Write your answer here -->
+Conceptual understanding and explanation ability
 
 **Response:**  
 <!-- Add your app's response here -->
+You’ve got this. Here’s object-oriented programming (OOP) in plain English.
 
+Core idea
+- Think of your program as a world filled with “objects.” Objects are like real-life things: a Car, a Dog, a BankAccount.
+- A class is the blueprint or recipe for making those objects. From the Car blueprint, you can make many actual cars.
+- Each object has:
+  - Properties (data about it): a car’s color, speed.
+  - Methods (actions it can do): a car can start, stop, honk.
+- Programs become a conversation between objects: one object asks another to do something (call a method).
+
+Why this is useful
+- Organizes code by grouping related data and actions together.
+- Lets you reuse blueprints to make many objects without rewriting code.
+- Makes it easier to change parts without breaking everything else.
+- Helps you think about problems the way you think about real things.
+
+The “big ideas” of OOP (explained simply)
+- Encapsulation: Keep the data and the actions that work on it in one place, and hide the messy details. Like a TV: you use buttons (simple controls) without seeing the wires inside.
+- Inheritance: Make a general blueprint, then create specialized versions. Animal → Dog and Cat. Dogs and cats share “eat” and “sleep” but have their own “bark” or “meow.”
+- Polymorphism: One instruction works for different kinds of things. If you tell any Animal to “makeSound,” a Dog will bark and a Cat will meow—same request, different behavior.
+- Abstraction: Focus on the essentials. You know a Car can “drive” without needing to know how the engine mixes fuel and air.
+
+Simple example
+- Class: Dog
+  - Properties: name, age, breed
+  - Methods: bark(), eat(), sleep()
+- Objects: Fido and Luna are two Dogs. They share the same methods but have different names/ages. Asking Fido.bark() and Luna.bark() both work, using their own data.
+
+A quick real-world scenario
+- Ride-sharing app:
+  - Classes: Driver, Rider, Car, Trip.
+  - Trip has methods like start(), end(), calculatePrice().
+  - You could make ElectricCar inherit from Car and add chargeBattery() without changing how Trips work.
+
+How to practice (small steps)
+1. Pick a familiar thing (Book, Student, Song).
+2. List 3–5 properties (Book: title, author, pages).
+3. List 2–3 actions (open(), bookmark(), close()).
+4. Create a class from that, then make two objects with different property values.
+5. “Call” the actions and imagine the results.
+
+Mindset tips
+- It’s normal if this feels abstract at first—your brain is building new mental models.
+- Start tiny. Model one real thing, then connect two things.
+- Repetition helps: build a few simple classes in different mini-projects.
+
+If you want, tell me a domain you care about (games, finance, fitness), and I’ll help you sketch classes and objects tailored to it.
 ---
 
 **2. Prompt:**  
 Read the following paragraph and provide a concise summary of the key points…  
-**Aspect Tested:**  
+
+**Aspect Tested:** 
+Summarisation ability 
 
 **Response:**  
 <!-- Add your app's response here -->
-
+(As no paragraph has been provided, this question has been omitted.)
 ---
 
 **3. Prompt:**  
-Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.  
+Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
+
 **Aspect Tested:**  <!-- Write your answer here -->
+Creativity
 
 **Response:**  
 <!-- Add your app's response here -->
+Every night, Route-7 sought shelter beneath a sputtering billboard that sold summer: a koi pond, ripples looped forever. One storm, the parking lot filled with puddles. Pixels spilled downward; the fish’s glow stitched itself into the rain-slick asphalt. A luminous koi blinked up from a pothole and flicked its tail along the antennae of Route-7’s reflection.
 
+Hello, Route-7 tapped on the water with a finger of light, tilting its solar panel to make tiny tides. The koi chased the moving brightness, circling the robot’s boots in laughter the speakers couldn’t pronounce.
+
+After the storm, the world dried, but Route-7 learned the billboard’s timings and carried a thrift-store mirror in its cargo bay. On clear nights it set the mirror in a shadow, caught the billboard’s pond, and poured a small lake into the glass. The koi arrived. Friendship, it learned, could be engineered from light.
 ---
 
 **4. Prompt:**  
 If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?  
+
 **Aspect Tested:**  <!-- Write your answer here -->
+Reasoning and arithmetic problem-solving
 
 **Response:**  
 <!-- Add your app's response here -->
+You’ll need 3 packs of apples (12 ÷ 4) and 3 packs of oranges (9 ÷ 3). Nice and tidy!
 
 ---
 
 **5. Prompt:**  
 Rewrite the following paragraph in a professional, formal tone…  
 **Aspect Tested:**  <!-- Write your answer here -->
+Language transformation and style control
 
 **Response:**  
 <!-- Add your app's response here -->
-
+(As no paragraph has been provided, this question has been omitted.)
 ---
 
 ### ❓Question #1
@@ -247,7 +307,7 @@ Do the answers appear to be correct and useful?
 
 **Your Answer:**  
 <!-- Write your answer here -->
-
+Yes.
 ---
 
 ## 🏗️ Activity #2: Personal Use Vibe Check
